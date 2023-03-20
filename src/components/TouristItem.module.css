@@ -1,0 +1,12 @@
+.TouristItem {
+    
+    background-color: greenyellow;
+    cursor: pointer;
+    color: black;
+    border: 1px solid black;
+}
+
+.TouristItem:hover {
+    background-color: green;
+    color: white;
+}

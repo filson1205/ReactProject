@@ -1,0 +1,12 @@
+.RestaurantItem {
+    
+    background-color: rgb(232, 168, 238);
+    cursor: pointer;
+    color: black;
+    border: 1px solid black;
+}
+
+.RestaurantItem:hover {
+    background-color: rgb(194, 36, 133);
+    color: white;
+}
